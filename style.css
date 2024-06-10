@@ -930,7 +930,7 @@ g#biplane {
     margin: 0 5px;
     text-align: center;
     display: inline-block;
-    color: white;
+    color: black;
     
     -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);  
     -moz-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
@@ -952,7 +952,7 @@ g#biplane {
     position: absolute;
     top: 0;
     left: 0;
-    border: 1px solid white;
+    border: 1px solid black;
     
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -972,7 +972,7 @@ g#biplane {
     
   }
   .footer-social-links a:hover{
-    color: black;
+    color: white;
     box-shadow: 0 0 50px rgb(154, 244, 250);
   }
   .footer-social-links a:hover:before{
